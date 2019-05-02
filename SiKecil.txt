@@ -3,3 +3,5 @@ Sistem Pakar Tentang Penyakit Bayi
 - Tampilan User
 - Tampilan Admin
 - Tampilan Registrasi
+- Tampilan Login
+- Menggabungkan Rules
